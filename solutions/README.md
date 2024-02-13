@@ -1,7 +1,7 @@
 ### Solutions for Codewars problems, continually updating.
 
 |ID|Title && solution|Difficulty|URL|remarks|
-|:---:|:---|:---:|:---:|
+|:---:|:---|:---:|:---:|:---:|
 |0001|[Square(n) Sum](0001_square_n_sum/square_n_sum.go)|*8 kyu*|https://www.codewars.com/kata/515e271a311df0350d00000f/train/go|*`array;`* *`list;`*  *`fundamental`*|
 |0002|[You Can't Code Under Pressure #1](0002_code_under_pressure/code_under_pressure.go)|*8 kyu*|https://www.codewars.com/kata/53ee5429ba190077850011d4/go|*`fundamental`*|
 |0003|[Multiples of 3 or 5](0003_multiples_3_or_5/multiples_3_or_5.go)|*6 kyu*|https://www.codewars.com/kata/514b92a657cdc65150000006|*`mathematics`* *`algorithms`*|
@@ -10,3 +10,4 @@
 |0006|[Moving Zeros To The End](0006_moving_zeros/moving_zeros.go)|*6 kyu*|https://www.codewars.com/kata/52597aa56021e91c93000cb0/train/go|*`arrays`* *`sorting`* *`algorithm`*|
 |0007|[Sort and Star](0007_sort_and_star/sort_and_star.go)|*6 kyu*|https://www.codewars.com/kata/57cfdf34902f6ba3d300001e/train/go|*`fundamentals`* *`strings`* *`arrays`* *`sorting`*|
 |0008|[Pell Numbers](0008_pell_numbers/pell_numbers.go)|*6 kyu*|https://www.codewars.com/kata/5818d00a559ff57a2f000082|*`algorithms`*|
+|0009|[Equal Sides Array](0009_equal_sides_array/equal_sides_array.go)|*6 kyu*|https://www.codewars.com/kata/5679aa472b8f57fb8c000047/train/go|*`algorithms`* *`fundamentals`* *`arrays`*|
